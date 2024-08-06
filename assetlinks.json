@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "mini.ami.twa",
+        "sha256_cert_fingerprints": ["21:D5:60:4D:7C:BE:57:EE:E2:71:67:3F:17:ED:89:E0:E8:38:A5:FB:4A:0D:22:6D:35:19:6B:D7:DB:9B:E4:A5"]
+      }
+    }]
